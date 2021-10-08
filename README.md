@@ -7,7 +7,7 @@ The culmination of five years of constant React Native development, Ignite is th
 Ignite apps include the following rock-solid technical decisions out of the box:
 
 - React Native
-- React Navigation 5
+- React Navigation 6
 - MobX-State-Tree [(Why not Redux?)](https://github.com/infinitered/ignite/blob/master/docs/MobX-State-Tree.md)
 - MobX-React-Lite
 - TypeScript
