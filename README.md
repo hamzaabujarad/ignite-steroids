@@ -1,7 +1,3 @@
-## Battle-tested React Native boilerplate
-
-The culmination of five years of constant React Native development, Ignite is the most popular React Native app boilerplate for both Expo and bare React Native.
-
 ## Tech Stack
 
 Ignite apps include the following rock-solid technical decisions out of the box:
@@ -23,12 +19,8 @@ Ignite apps include the following rock-solid technical decisions out of the box:
 Run the CLI:
 
 ```bash
-# for vanilla React Native
-npx ignite-cli new PizzaApp
-# or for Expo-powered:
-npx ignite-cli new PizzaApp --expo
-# to provide a custom bundle identifier (Android only):
-npx ignite-cli new PizzaApp --bundle=com.infinitered.pizzaapp
+- navigate to project root and press yarn 
+- npx ignite-cli new PizzaApp
 ```
 
 Ignite will walk you through the rest.
