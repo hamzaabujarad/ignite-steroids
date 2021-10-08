@@ -2168,10 +2168,10 @@
     sudo-prompt "^9.0.0"
     wcwidth "^1.0.1"
 
-"@react-native-community/masked-view@0.1.10":
-  version "0.1.10"
-  resolved "https://registry.yarnpkg.com/@react-native-community/masked-view/-/masked-view-0.1.10.tgz#5dda643e19e587793bc2034dd9bf7398ad43d401"
-  integrity sha512-rk4sWFsmtOw8oyx8SD3KSvawwaK7gRBSEIy2TAwURyGt+3TizssXP1r8nx3zY+R7v2vYYHXZ+k2/GULAT/bcaQ==
+"@react-native-community/masked-view@0.1.11":
+  version "0.1.11"
+  resolved "https://registry.yarnpkg.com/@react-native-community/masked-view/-/masked-view-0.1.11.tgz#2f4c6e10bee0786abff4604e39a37ded6f3980ce"
+  integrity sha512-rQfMIGSR/1r/SyN87+VD8xHHzDYeHaJq6elOSCAD+0iLagXkSI2pfA0LmSXP21uw5i3em7GkkRjfJ8wpqWXZNw==
 
 "@react-native/assets@1.0.0":
   version "1.0.0"
@@ -2204,7 +2204,7 @@
   resolved "https://registry.yarnpkg.com/@react-navigation/elements/-/elements-1.1.2.tgz#82d8978489e47e7c54f67c453ba4a124046fe253"
   integrity sha512-PbPCleC1HpUlXtuP0DFNCNTEhRLd6lmB0KxY0SGRGqCemS3HpG/PajEQ1LDe7S51M03a1tDby1MfKTkNanUXAg==
 
-"@react-navigation/native-stack@^6.0.2":
+"@react-navigation/native-stack@^6.2.2":
   version "6.2.2"
   resolved "https://registry.yarnpkg.com/@react-navigation/native-stack/-/native-stack-6.2.2.tgz#1687cff9502aa8c91091c9f2a783026f90823cd3"
   integrity sha512-OhWW1R0ZgAnWAvuhPZaBiEuMF13j7+BaNB8KmxQTTjG41EdzUi5yvz5MbHvzLjhF3yJ3qHxr6HjxFRMbugWvjw==
@@ -2212,7 +2212,7 @@
     "@react-navigation/elements" "^1.1.2"
     warn-once "^0.1.0"
 
-"@react-navigation/native@~6.0.1":
+"@react-navigation/native@~6.0.4":
   version "6.0.4"
   resolved "https://registry.yarnpkg.com/@react-navigation/native/-/native-6.0.4.tgz#8a9710ce4e9b903ea12c4a4fce8709f5a37e15fe"
   integrity sha512-497dGGDIZ8hDCPGj6GXZvLGHk6NvZk5k4r1cjwgqcXwutK5fS7sgD0dZP52NTQC3GvLe8PZNv6AEdMIqFrZK6A==
@@ -2228,7 +2228,7 @@
   dependencies:
     nanoid "^3.1.23"
 
-"@react-navigation/stack@~6.0.1":
+"@react-navigation/stack@~6.0.0":
   version "6.0.9"
   resolved "https://registry.yarnpkg.com/@react-navigation/stack/-/stack-6.0.9.tgz#a4c38df732d6dfefc39d8c80411aa066fcaeb358"
   integrity sha512-LV9MlxqOH6+wgU7LxhaTRSY+WTuzNa2NnOCji9nyAA4Xohp9tpuLhYJRYdNRWXBcfseBqz1o4L0LAxRMv+CXYQ==
@@ -3570,14 +3570,7 @@
     "@typescript-eslint/types" "4.33.0"
     eslint-visitor-keys "^2.0.0"
 
-"@unimodules/core@6.0.0":
-  version "6.0.0"
-  resolved "https://registry.yarnpkg.com/@unimodules/core/-/core-6.0.0.tgz#c76ca5ca92128a059c62bb0c24d0372aaf908408"
-  integrity sha512-+KCVh+NjU33lkHOFiRfJZR6dDsSF8zCY1CVARMYJbQ7w1epRsalpKnCK08JoNYHQqkPR79d2zQSWMxd20zBvoA==
-  dependencies:
-    compare-versions "^3.4.0"
-
-"@unimodules/core@~7.1.2":
+"@unimodules/core@7.1.2", "@unimodules/core@~7.1.2":
   version "7.1.2"
   resolved "https://registry.yarnpkg.com/@unimodules/core/-/core-7.1.2.tgz#5181b99586476a5d87afd0958f26a04714c47fa1"
   integrity sha512-lY+e2TAFuebD3vshHMIRqru3X4+k7Xkba4Wa7QsDBd+ex4c4N2dHAO61E2SrGD9+TRBD8w/o7mzK6ljbqRnbyg==
