@@ -1,16 +1,6 @@
-<p align="center"><img src="http://ir_public.s3.amazonaws.com/projects/ignite/ignite-bowser-launch-screen.png" alt="logo" width="414px"></p>
-
-# Ignite - the hottest React Native boilerplate
-
-<a href="https://badge.fury.io/js/ignite-cli" target="_blank"><img src="https://badge.fury.io/js/ignite-cli.svg" alt="npm version" height="20"></a>
-
 ## Battle-tested React Native boilerplate
 
 The culmination of five years of constant React Native development, Ignite is the most popular React Native app boilerplate for both Expo and bare React Native.
-
-This is the React Native boilerplate that the [Infinite Red](https://infinite.red) team uses on a day-to-day basis to build client apps. Developers who use Ignite report that it saves them two to four weeks of time on average off the beginning of their React Native project!
-
-_NOTE: Ignite CLI version 6.0 now includes the boilerplate -- read [the blog post](https://shift.infinite.red/introducing-ignite-4-0-flame-1dfc891f9966) to find out why!_
 
 ## Tech Stack
 
@@ -21,7 +11,7 @@ Ignite apps include the following rock-solid technical decisions out of the box:
 - MobX-State-Tree [(Why not Redux?)](https://github.com/infinitered/ignite/blob/master/docs/MobX-State-Tree.md)
 - MobX-React-Lite
 - TypeScript
-- AsyncStorage (integrated with MST for restoring state)
+- MMKV Storage (integrated with MST for restoring state)
 - apisauce (to talk to REST servers)
 - Flipper-ready
 - Reactotron-ready (and pre-integrated with MST)
@@ -29,11 +19,6 @@ Ignite apps include the following rock-solid technical decisions out of the box:
 - And more!
 
 ## Quick Start
-
-Prerequisites:
-
-- For [Expo-powered React Native apps](https://expo.io/), no prerequisites are necessary ([why choose Expo?](https://medium.com/@adhithiravi/building-react-native-apps-expo-or-not-d49770d1f5b8))
-- For vanilla React Native, make sure you're set up for React Native by following our free Infinite Red Academy course [for macOS](https://academy.infinite.red/p/installing-react-native-tutorial-on-macos) or [for Windows 10](https://academy.infinite.red/p/installing-react-native-tutorial-on-windows-10) first
 
 Run the CLI:
 
